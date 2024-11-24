@@ -1,16 +1,9 @@
 # freeflow_flutter
 
-A new Flutter project.
+A Flutter package to help you build server-driven UIs in your apps.
 
-## Getting Started
+This package provides a set of tools to help you build server-driven UIs in your Flutter app. It allows you to define a schema for your app's UI and then fetch the actual UI from a server.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to use it?
+This package is designed to work with the [freeflow-ui](https://www.npmjs.com/package/freeflow-ui) package for Node.js. It will fetch the UI schema from the server and then render it in your Flutter app.
+You can refer to the example [here](https://github.com/FreeFlowUI/flutter_example).
