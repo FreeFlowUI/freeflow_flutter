@@ -1,5 +1,6 @@
 name: freeflow_flutter
 description: "An SDK to help to build server driven UIs in your apps."
+repository: https://github.com/FreeFlowUI/freeflow_flutter
 
 version: 1.0.0+1
 
